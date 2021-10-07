@@ -1,7 +1,10 @@
 # Company logo identifier 🕵️
 
 Google Cloud Function that can identify a given company image logo.
-![](/Users/jnirosha/IdeaProjects/logo-recognition-gcp-cloud-function/images/Design_Overview.png "Design_Overview")
+
+![Design Overview](./images/Design_Overview.png "Design_Overview")
+
+
 This function can be ⚡ by a Google Cloud Storage trigger event.
 
 Result will be visible in the GCP Platform ➙ Cloud Functions ➙ logs.
